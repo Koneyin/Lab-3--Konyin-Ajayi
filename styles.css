@@ -1,0 +1,58 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Lucida Sans";
+  color: #00376c;
+}
+
+a {
+  color: #00376c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  color: #1577ff;
+  border-bottom: #1577ff 2px solid;
+  display: inline;
+}
+
+h2 {
+  border-bottom: #7b7b7b 2px solid;
+  text-align: center;
+}
+
+.Services p,
+footer p {
+  font-style: italic;
+}
+
+header {
+  border-bottom: #7b7b7b 6px solid;
+  line-height: 80px;
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.Story,
+.Services,
+.Locations {
+  padding: 10px 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
+}
+
+img {
+  width: 150px;
+}
